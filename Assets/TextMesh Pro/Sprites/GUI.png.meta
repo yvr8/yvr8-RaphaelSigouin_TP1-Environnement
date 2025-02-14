@@ -236,13 +236,13 @@ TextureImporter:
       name: GUI_4
       rect:
         serializedVersion: 2
-        x: 51
+        x: 50
         y: 242
-        width: 42
+        width: 43
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 3, y: 0, z: 3, w: 0}
+      border: {x: 4, y: 6, z: 3, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -431,7 +431,7 @@ TextureImporter:
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 7, z: 2, w: 7}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -557,7 +557,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 6, y: 6, z: 6, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -599,7 +599,7 @@ TextureImporter:
         height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 4, z: 2, w: 2}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -662,7 +662,7 @@ TextureImporter:
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 2, y: 3, z: 2, w: 2}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2044,11 +2044,11 @@ TextureImporter:
         serializedVersion: 2
         x: 50
         y: 258
-        width: 4
+        width: 44
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 6, z: 4, w: 6}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2223,48 +2223,6 @@ TextureImporter:
       bones: []
       spriteID: 9e61ba2067fd994cd9252c4cd609e5fd
       internalID: 768052863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUI_101
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 258
-        width: 4
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a73caaf0af94e8998b8aec5ed33946b
-      internalID: -650950848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GUI_102
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 258
-        width: 1
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbb33cd2838b6619e9ddad9983ad2f66
-      internalID: 1637933029
       vertices: []
       indices: 
       edges: []
